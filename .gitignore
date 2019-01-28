@@ -1,4 +1,7 @@
 *.asv
 env/
+
+# Jupyter notebook checkpoints
 *-checkpoint.txt
 *-checkpoint.ipynb
+.ipynb_checkpoints/
